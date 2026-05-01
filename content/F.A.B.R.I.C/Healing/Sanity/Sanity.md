@@ -1,0 +1,3 @@
+Sanity represents the characters state of mind. If the sanity reaches 0 at any point the character gets a new [[Insanity Level]].
+
+Sanity can be recovered by an successful check in psychology (made by the therapist) during a 10 minute therapy in safe environment. The difficulty is the current level of insanity + 1. The Quality of the check represents the points of Sanity that are regained. The level in Insanity can only be lowered by a longer psychological treatment and is left to roll play.

@@ -1,0 +1,2 @@
+Close combat weapons can have the following distance classes: Long (2-3m), Middle(1- 2m), Short (0-1m). 
+When fighting in the wrong distance you get a penalty of -1. Every time a combat check is evaluated the winner can adjust the start distance for the next round to their liking.

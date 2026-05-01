@@ -1,0 +1,3 @@
+Bloodpoints introduce a mechanism that can lead to death regardless of other wounds. [[Bleeding Wound]] cause the bloodpoints to decrease. At 0 bloodpoints, the character becomes unconscious. The character continues to lose one bloodpoint each round. If the maximum of bloodpoints is reached in negative, the character is dead.
+
+Bloodpoints can be recovered naturally (1 Point recovered per day) or quicker with special treatment or healing magic (no rules, just roleplay).

@@ -1,0 +1,20 @@
+- Subtle rolls
+- Influence gives bonus in discussions
+- Magic: Possibility to use spell on multiple targets (Control)
+- "Concentration" in combat changed to interruption -> roll on self-control for all tasks that suffer from being interrupted
+- Fallschaden ist Geschwindigkeitsschaden
+- Different dice options
+- Invocation, Conjuration -> what is value of blood compared to gold ?
+- Conjuration -> multilication from value level and size
+- Avatar -> bloodbending example for limits of influencing other bodies (transfrom)
+- Creatures, Invocations -> Stats based on that level
+- Obsidian to static html -> includes plugins? How does it work?
+- Function calculation in obsidian?
+- Advantages and Disadvantages (V2?)
+- Specialisation on certain spells gives advantage??
+- One-time hit "weapons" for attacking with magic castable in side-action? Or generally concept for reducing casting time to a side-action -> increases difficulty, Training that a lot in a specific way would again lower that difficulty
+- Acronym: Framework for Arcane Baseline Rules and Individual Contexts
+- How to do counterspells/ breaking a ongoing spell?
+- Ranged spell from melee? Or Flamethrower? 
+
+- For magic: possibility to overload in order to achieve an effect level -> possibility to get hurt but can cast higher level spell -> if multiple times cast successfully above level: spell proficiency rises?

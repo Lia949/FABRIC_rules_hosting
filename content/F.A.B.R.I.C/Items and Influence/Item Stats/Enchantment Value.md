@@ -1,0 +1,1 @@
+This is the strength of the Enchantment on the item. 

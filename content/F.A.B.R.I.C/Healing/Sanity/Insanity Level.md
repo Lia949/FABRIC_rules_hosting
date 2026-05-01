@@ -1,0 +1,1 @@
+Each new level in Insanity brings a mental disorder for the character. Beginning from small ticks at level one it can come to hallucinations and finally total madness. The detailed effect of Insanity is can either be chosen by DM and player or rolled randomly on the following tables with a D20.
