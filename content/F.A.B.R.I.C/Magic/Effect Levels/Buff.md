@@ -1,3 +1,5 @@
+**Note**: Have effect level be instead equal to creation point cost?? what would be equivalent for speed? 
+
 # Improve skill
 > [!danger] **Effect Level   =   Bonus on skill x 2**
 

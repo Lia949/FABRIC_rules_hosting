@@ -21,3 +21,9 @@ As the characters level up there might be a lot of dice to roll at some point. A
 rule is to only roll half the dice and double the resulting successes instead. The threshold
 for this is set to 10 dice currently. Uneven numbers simply add one roll that is not
 doubled afterwards.
+
+# Advantage
+A roll with advantage counts 3,4,5,6 as successes and only 1,2 as failures.
+
+# Disadvantage
+A roll with advantage counts only 5,6 as successes and 1,2,3,4 as failures.
