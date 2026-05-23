@@ -13,7 +13,7 @@
 | [[Mind]]            | reading, attacking or controlling the mind. Also telepathic communication              |
 | [[Control Element]] | control of earth, air, water, fire, nature                                             |
 | [[Light]]           | create lightsource, illusion, invisibilty                                              |
-| [[Telekenesis]]             | Well...fly                                                                             |
+| [[Telekenesis]]     | Well...fly                                                                             |
 | [[Space]]           | Teleport, compress space or increase                                                   |
 | [[Sound]]           | create or muffle sound                                                                 |
 | [[Transform]]       | Transform fully or partly into an animal, change organic or anorganic matter           |
