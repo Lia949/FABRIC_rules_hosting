@@ -1,3 +1,4 @@
+-> darkness, invisibility, heat, blindness, laser
 
 Summer sunlight: 4
 Sunlight: 5
@@ -8,15 +9,15 @@ Almost dark: 9
 Complete darkness: 10
 
 
-| Level | Description       |
-| ----- | ----------------- |
-| 1     | small candlelight |
-| 2     | big candlelight   |
-| 3     | torch             |
-| 4     | flash light       |
-| 5     | bright flashlight |
-| 6     | Spotlight         |
-| 7     | Sunlight          |
+| Level | Description |
+| ----- | ----------- |
+| 1     | Light       |
+| 2     | Heat        |
+| 3     | Darkness    |
+| 4     | Laser       |
+| 5     | BLindness   |
+| 6     | Invisibilty |
+
 
 
 

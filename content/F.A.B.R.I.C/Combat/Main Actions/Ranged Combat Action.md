@@ -19,11 +19,12 @@
 > | 2 | Fast and steady | | 5 | Fast and chaotic | 
 
 > [!tip] **Sight**
-> | Level | Description |  | Level | Description |
-> | --- | ---| --- | --- | ---|
-> | 0 | Perfect | | 3 | Impeded | 
-> | 1 | Good| |4 | Bad |
-> | 2 | Normal | | 5 | Almost completely gone  | 
+> | Level | Description | 
+> | --- | ---|
+> | 0 | Perfect | 
+> | 1 | Impeded|
+> | 2 | Bad | 
+> | 3 | Almost completely obscured | 
 
 # Actions
 - Standard ranged attack (1 Action):
