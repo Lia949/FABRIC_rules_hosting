@@ -1,1 +1,0 @@
-Reflects pure monetary value. Items with a high Artistry Value have valuable materials, artistic engravings and adornments or any other kind of beautification, that makes the item more valuable.

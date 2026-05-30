@@ -1,1 +1,0 @@
-Some actions take longer than one combat round. If the character gets hit during the task they must roll a check on self-control against the amount of light wounds caused by the attack. On a fail the task is interrupted.

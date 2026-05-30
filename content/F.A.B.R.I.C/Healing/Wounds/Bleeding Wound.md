@@ -1,1 +1,0 @@
-If a bleeding wound is inflicted, the character loses one of their [[Bloodpoints]] each round until the wound is [[Stabilizing|stabilized]].

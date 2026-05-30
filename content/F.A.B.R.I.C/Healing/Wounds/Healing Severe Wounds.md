@@ -1,3 +1,0 @@
-Healing is a long process and happens during roll play, even if something is healed with magic the effect should not be instant.
-Even if a wound is healed there can be permanent damage. As a rule of thumb each severe wound creates a scar. Two severe wounds at one body part can lead to a permanent penalty, while three severe wounds lead to a lost limb. 
-Magic or futuristic medicine can be used to avoid this permanent damage.

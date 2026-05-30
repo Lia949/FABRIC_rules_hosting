@@ -1,1 +1,0 @@
-Wound Threshold describes the numer of light wounds that have to be accumulated for dealing a severe wound instead (the number of light wounds is reset to zero)

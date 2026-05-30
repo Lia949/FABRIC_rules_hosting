@@ -1,1 +1,0 @@
-Damage points translate directly to light wounds on the hit body part. If the [[Wound Threshold]] is reached at the body part, one [[Severe Wound]] is suffered (and the light wounds reset)

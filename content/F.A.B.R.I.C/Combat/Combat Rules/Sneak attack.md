@@ -1,1 +1,0 @@
-Attacking an unaware opponent means rolling your close combat attack against the DC of 0.

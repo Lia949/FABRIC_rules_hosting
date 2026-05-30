@@ -1,2 +1,0 @@
-In close combat it’s possible to fight against multiple opponents. Per additional opponent attacked or dodged a penalty of -2 is placed upon all combat checks. 
-An opponent one [[Size table|Size Level]] bigger counts as two opponents of equal size. 

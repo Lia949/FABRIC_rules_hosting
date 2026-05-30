@@ -1,9 +1,0 @@
-- **blind**: -3 for all checks
-- **bleeding**: loose one blood point per round at the beginning of a round
-- **burning**: one wound per round at the burning body part
-- **prone**: -2 for all checks
-- **restrained**: -1 for all checks, moving only with BEW/2, no running
-- **immobilized**: -3 to all checks, no movement possible
-- **confused**: next main action can’t be used, then the condition ends
-- **afraid**: next action has to be used to get away from the source of fear, a successful check on WIL ends this condition.
-- **unconscious**: no actions possible
