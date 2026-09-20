@@ -1,1 +1,0 @@
-Being prone gives a -2 penalty on [[Close Combat Action]]s. It makes it also harder to be hit by ranged attacks, because their [[Size table|Size]] counts as one smaller.
