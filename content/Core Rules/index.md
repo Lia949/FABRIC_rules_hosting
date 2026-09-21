@@ -28,5 +28,5 @@ for this is set to 10 dice currently. Uneven numbers simply add one roll that is
 doubled afterwards.
 
 # Charactersheet
-[[charactersheet.pdf|Here]] you can access the basic character sheet, that is suited for most settings created with F.A.B.R.I.C.. The first page contains all [[Characterstats]], thus only values directly related to the character. The second sheet is used during combat to track [[Conditions and Character state]]. The third sheet tracks all [[Equipment and Prosthesis]].
+[Here](charactersheet.pdf) you can download the basic character sheet, that is suited for most settings created with F.A.B.R.I.C.. The first page contains all [[Characterstats]], thus only values directly related to the character. The second sheet is used during combat to track [[Conditions and Character state]]. The third sheet tracks all [[Equipment and Prosthesis]].
 

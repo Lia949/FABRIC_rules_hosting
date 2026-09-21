@@ -1,6 +1,8 @@
 ---
 title: F.A.B.R.I.C.
 ---
+![[fabric_logo.png|218]]
+
 Welcome to F.A.B.R.I.C., an open-source Pen and Paper Framework[^1]. Framework? Indeed, instead of fully fixed rules, this project aims to provide rules for creating rules, so to say. In theory this allows to play all kinds of settings - fantasy, science fiction, cyberpunk, steampunk, horror - without having to switch the rule system all the time. Basic rules stay the same, while magic, technology and fighting styles can be vastly different between various settings. 
 
 >[!note] Not for beginners
@@ -51,7 +53,7 @@ You might see why the goal of creating these rules is a rather complex problem t
 
 # Contributing 
 Access the official github page to download the rules as markup files (super nice in combination with [Obsidian](https://obsidian.md/)) or start contributing. 
-https://github.com/Lia949/F.A.B.R.I.C. (copy the link manually into the search bar if it doesn't work)
+[https://github.com/Lia949/F.A.B.R.I.C.](https://github.com/Lia949/F.A.B.R.I.C.) 
 
 [^1]: Def: fundamental structure used as the basis for something else
 [^2]: Just ignore this sentence if you don't like math, it's not important for learning the rules. 

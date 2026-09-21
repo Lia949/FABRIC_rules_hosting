@@ -1,10 +1,10 @@
 ---
 title: Combat
 ---
-> [!note]
-Combat was not the initial focus of the game, so you might not expect the amount of time I spent trying to make it perfect. In many rules combat uses a turn based system and while this ensures a distinct order, it can be quite boring to wait for other players that only start thinking about what to do once their turn is coming up.
-For me it was important to have a good level of realism and offer different tactical approaches (not simply: "I hit this thing with my sword"), without turning into a mess of special actions, that need to be reread every time. On top of that combat should be simple, quick, versatile and fun. While the number of possible actions might seem a lot at first, the true advantage is that the underlying mechanic will stay the same when you level up. Everything that is possible is there from the beginning. Leveling up just makes it easier and lets you specialize on certain fighting styles. 
-There is a lot of balancing and simplification that has to be done still. I appreciate any constructive critisism in that regard!
+> [!note] 
+> Combat was not the initial focus of the game, so you might not expect the amount of time I spent trying to make it perfect. In many rules combat uses a turn based system and while this ensures a distinct order, it can be quite boring to wait for other players that only start thinking about what to do once their turn is coming up.
+> For me it was important to have a good level of realism and offer different tactical approaches (not simply: "I hit this thing with my sword"), without turning into a mess of special actions, that need to be reread every time. On top of that combat should be simple, quick, versatile and fun. While the number of possible actions might seem a lot at first, the true advantage is that the underlying mechanic will stay the same when you level up. Everything that is possible is there from the beginning. Leveling up just makes it easier and lets you specialize on certain fighting styles. 
+> There is a lot of balancing and simplification that has to be done still. I appreciate any constructive critisism in that regard!
 
 # Start Combat
 At the start of combat every character and opponent decides on their combat motivation. It describes their willingness to continue fighting. This is mainly used for opponents to decide when they yield or try to flee the fight.

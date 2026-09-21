@@ -3,13 +3,13 @@ Attributes represent your characters most basic strengths and weaknesses. They e
 
 > [!tip] Attribute descriptions
 > | Attribute | Full name    | Usage                                  |
-| --------- | ------------ | -------------------------------------- |
-| WIT       | Wit          | Intelligence, intuition and perception |
-| CHA       | Charisma     | Social interaction, empathy            |
-| WIL       | Will         | Mental fortitude, concentration        |
-| FIN       | Finesse      | Art, crafts, instruments               |
-| CON       | Constitution | Strength, endurance                    |
-| MOT       | Motor skills | Reflexes, agility, coordination        |
+> | --------- | ------------ | -------------------------------------- |
+> | WIT       | Wit          | Intelligence, intuition and perception |
+> | CHA       | Charisma     | Social interaction, empathy            |
+> | WIL       | Will         | Mental fortitude, concentration        |
+> | FIN       | Finesse      | Art, crafts, instruments               |
+> | CON       | Constitution | Strength, endurance                    |
+> | MOT       | Motor skills | Reflexes, agility, coordination        |
 > | AUT | Authority | Casting magic |
 
 ---
