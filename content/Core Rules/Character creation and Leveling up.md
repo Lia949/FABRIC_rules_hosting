@@ -8,16 +8,13 @@
 >
 >Anyway I got inspired to do more than a mere table. Still creation should work similar for any genre or setting, so the options are not as specific as in the Witcher TTRPG.
 
-This chapter is a step-by-step guide on how to create your character. Some good advice is to note down your choices and only stat filling out the charactersheet once you're done and happy with the result. 
+This chapter is a step-by-step guide on how to create your character. Some good advice is to note down your choices and only start filling out the charactersheet once you're done and happy with the result. 
 # Step 0: Pick your Rank of Power
-Thie power rank is provided by the DM as it goes hand in hand with the [[World creation#Difficulty|Difficulty]] of the setting. While the difficulty describes how deadly the setting is, the [[World creation#Power Rank|Power Rank]] describes how it feels to play the character. Do they have to struggle with every step of increasing their strength or are new abilities coming easily.
-Power changes both character creation and leveling up. So in two different power ranks can feel quite different at the same level.
+The characters [[World creation#Power Rank|Power Rank]] is set during world creation (by the DM) as it goes hand in hand with the [[World creation#Difficulty|Difficulty]] of the setting. All player characters have the same power rank. Power changes both character creation and leveling up. So in two different power ranks can feel quite different at the same level.
 
 # Step 1: Race and Culture
-
-## Starting Stats
-
-### Fixed values
+Start with noting down the fixed start values and then upgrade them directly with the initial values given in the table. 
+## Fixed start values
 - **Attributes**
   All attributes (WIT, WIL, CHA, CON, FIN, MOT, AUT) start at value 0
 - **Bloodpoints**: 10
@@ -30,7 +27,7 @@ Power changes both character creation and leveling up. So in two different power
 - **Channel Capacity**: 0
 - **Source Points**: 0
 
-### Upgrading Stats
+## Upgrading Stats
 - **Attribute points**
   Used to increase any attribute, Speed or Channel Capacity. Values from 0-3 cost one point per increase, from 3-6 cost two points
 - **Skill points**
@@ -136,6 +133,9 @@ Additionally to items that you may have gotten during the previous steps, you ca
 - 2 items of the same level as your influence
 - 4 items of one level below your influence
 - 6 items of any level, with a max of two below your influence
+
+# Step 10: Are you happy with the result?
+If you're unhappy with things you rolled or feel that your character is at disadvantage because of a huge age gap or anything else, there is one simple solution. Talk to your DM and tweak the character until it fits you. Ultimately the most important part is to have fun, not to follow the rules!
 
 # Leveling up
 For each Level the character gets Improvement Points (IP). The number of IPs based on the Power Rank is given in the following table. 

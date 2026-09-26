@@ -7,19 +7,17 @@ This section contains some advice and guideline for the DM. Feel free to ignore 
 - [ ] Get your players and go
 
 # Difficulty and Power Rank
-As there are various settings that have a distinct feeling of how strong the player characters are, the rules for creating characters and leveling up offer adaptation to your play style. 
+To accommodate a wide range of play styles - from horror one-shots where players are likely to die up to high fantasy worlds where characters basically ascend into godhood - it is useful to introduce some categorization.
+The DM decides upon difficulty and rank when they create their world (which should of course include communication with the players about what they want). The nice side effect is, that players are likely less frustrated to fail checks a lot if they know that they're playing in a really hard and deadly setting (Sometimes it is surprisingly hard to convey expectations in that regard correctly).
+A typical DnD setting would be normal or hard (depending on your playstyle of course). The player characters get strong abilities and grow to an extreme level. Thus the level of power would be potent. 
 
->[!note] **Why having difficulty and power**?
->As my goal is to have a wide range of playstyles - from horror one-shots where players are likely to die up to high fantasy worlds where characters ascend into godhood - I thought it would be nice to translate it to the concept of power and difficulty. A typical DnD setting is quite deadly for the average NPC inhabitants, so it would be a rather difficult setting. However the player characters get strong abilities and grow to an extreme level. Thus the level of power would be similarly high. 
->
->Of course the DM should tell the players which level they are going to play in their session 0 (meeting before actually playing a campaign to get on the same page about stuff). The nice side effect is, that players are likely less frustrated to fail checks a lot if they know that they're playing in a really hard and deadly setting with average characters (Sometimes it is surprisingly hard to convey expectations in that regard correctly).
->This also give the (to me) interesting option to play hero characters with a limited powerlevel, for example because of some kind of handicap, making every step of progress matter more.
 
 ## Difficulty
-- **Easy**: Encounters are challenging but mostly not dangerous.
-- **Normal**: Encounters are seldom deadly but you might be captured by your opponent.
-- **Hard**: Encounters can end deadly but with careful planning and caution they shouldn't. You probably don't want to be captured by your opponent.
-- **Deadly**: Encounters are extremely dangerous. Characters won't survive long in such a setting.
+- **Super easy**: Use this for a setting that is more about exploring and enjoying the world than fighting.
+- **Easy**: Encounters can be challenging but have little/no threat to live.
+- **Normal**: Encounters can feel deadly but player characters will usually have many options to prevent dying. 
+- **Hard**: Encounters can end deadly but with careful planning and caution they shouldn't.
+- **Deadly**: Encounters are extremely dangerous. Characters won't survive long in such a setting, even if they try everything to prepare.
 
 ## Power Rank
 - **Limited**: Progression feels handicapped and can be frustrating.
