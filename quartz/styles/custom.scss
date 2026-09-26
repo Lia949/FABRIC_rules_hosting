@@ -1,13 +1,2 @@
 @use "./base.scss";
 
-// put your custom CSS here!
-/* Hide the right sidebar */
-.page > .sidebar.right {
-  display: none;
-}
-
-/* Let the main content expand */
-.page > .center {
-  width: 100%;
-  max-width: 1200px; /* adjust to taste */
-}
